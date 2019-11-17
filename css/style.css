@@ -58,6 +58,7 @@ p {
   .parallax-container .section {
     position: absolute;
     top: 40%;
+  line-height: auto;
   }
   #index-banner .section {
     top: 10%;
@@ -88,7 +89,9 @@ p {
 }
 
 
+#parasm{
 
+}
 footer.page-footer {
   margin: 0;
 }
