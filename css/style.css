@@ -5,10 +5,26 @@
  *
  * Made By MaterializeCSS.com
  */
+.card-img-top{
+  border-radius: 20px;
 
+}
 nav ul a,
 nav .brand-logo {
-  color: #444;
+  color: whitesmoke;
+}
+
+#nav {
+  background: #ee6e73;
+}
+
+.info{
+  font-size: 54x;
+
+}
+
+#work-together{
+  line-height: 70px;
 }
 
 p {
@@ -16,14 +32,23 @@ p {
 }
 
 .sidenav-trigger {
-  color: #26a69a;
+  color: #ee6e73;
 }
 
+#parasm{
+  height:500px;
+}
+#paramd{
+  height: 620px;
+  min-height: 250px;
+
+}
 .parallax-container {
   min-height: 380px;
   line-height: 0;
   height: auto;
   color: rgba(255,255,255,.9);
+  height:650px;
 }
   .parallax-container .section {
     width: 100%;
@@ -43,6 +68,16 @@ p {
   #index-banner .section {
     top: 0;
   }
+
+  #work-together{
+    line-height: 30px;
+    font-size: 20px ;
+  }
+  
+  #bottom-text{
+    display: none;
+  }
+  
 }
 
 .icon-block {
@@ -52,6 +87,9 @@ p {
   font-size: inherit;
 }
 
+
+
 footer.page-footer {
   margin: 0;
 }
+
