@@ -20,21 +20,21 @@ class App extends Component {
         {/* <Header/> */}
         <Body>
           <Introduction />
+          
           <Projectheader />
 
           {this.state.projects.map(projects => (
             <Projects
-              id={projects.id}
-              name={projects.name}
-              image={projects.image}
-              description={projects.description}
-              githubLink={projects.githubLink}
-              link={projects.link}
+            id={projects.id}
+            name={projects.name}
+            image={projects.image}
+            description={projects.description}
+            githubLink={projects.githubLink}
+            link={projects.link}
             />
-          ))}
-
-          <Links />
+            ))}
           {/* <Dogs /> */}
+            <Links />
         </Body>
       </div>
     );
