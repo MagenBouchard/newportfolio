@@ -1,0 +1,13 @@
+.heading{
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.cont{
+    font-size: 30;
+}
+hr.style1{
+	border-top: 3px solid  #ECEDDC;
+}

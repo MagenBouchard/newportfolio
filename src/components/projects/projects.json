@@ -1,0 +1,75 @@
+[
+    {
+        "id": "1",
+        "name":"unLeashed",
+        "image": "https://i.pinimg.com/originals/90/d3/a1/90d3a1fc8effae13bc912cfd212f1aa8.jpg",
+        "description":"unLeashed was a group project using Node.js, Express, Sequelize, a Dog Breed API, Handlebars, and a weather API. ",
+        "link":"https://damp-badlands-48147.herokuapp.com/",
+        "githubLink":"https://github.com/onieronaut/unLeashed"
+    },
+    {
+        "id": "2",
+        "name":"Clicky Game",
+        "image": "http://www.mycitruscountyhome.com/2087Cardinal/images/Click-Here-Button.png",
+        "description":"This application is created via ReactJS. The user must click on the puppies only once. If they click twice they will have lost the game.",
+        "link":"https://magenbouchard.github.io/ClickyGame/",
+        "githubLink":"https://github.com/MagenBouchard/ClickyGame/tree/master"
+    },
+    {
+        "id": "3",
+        "name":"Liri",
+        "image": "https://www.iconshock.com/image/RealVista/Development/command_prompt",
+        "description":"Liri is my command-line interface project where she takes in four commands -'concert-this', 'spotify-this-song', 'movie-this', 'do-what-it-says'. Follow my github link and view the Readme.md for a demonstration of this fun project! ",
+        "link": " https://drive.google.com/file/d/1hWLgH_tQBF5IlkzthcEsNBxxDV9VROf1/view" ,
+        "githubLink":"https://github.com/MagenBouchard/liri"
+    },
+    {
+        "id": "4",
+        "name":"Crystal Game",
+        "image": "https://steamuserimages-a.akamaihd.net/ugc/923679628825448806/2E6570BAF536F535D0F8EAFFEE54DA433B74030E/?imw=200&imh=200&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true",
+        "description":"Crystal-Collector-Game is a Javascript app that uses the Math.floor(Math.random()) function to generate a random target number. Each round, the user will receive a new target number, and each crystal will be assigned a new value. The user does not know the crsyal value until clicking on it.",
+        "link":"https://magenbouchard.github.io/crystal_game/",
+        "githubLink":"https://github.com/MagenBouchard/crystal_game"
+    }, 
+    {
+        "id": "5",
+        "name":"Guess Game",
+        "image": "https://www.bing.com/th?id=OIP.NYPvCHeJjm_qyHHFbAwT6gAAAA&pid=Api&rs=1",
+        "description":"In this number guessing game the user guesses the number that the computer has determined. The number of guesses are tracked and the computer provides feedback based on if the user's input is too high or too low. This application runs in the browser and is dynamically updated.",
+        "link":"https://magenbouchard.github.io/simple_guess/",
+        "githubLink":"https://github.com/MagenBouchard/simple_guess"
+    },
+     {
+        "id": "6",
+        "name":"Burger Time",
+        "image": "https://thumbs.dreamstime.com/b/burger-picture-design-hand-drawn-art-140238469.jpg",
+        "description":"This application takes in user input regarding burger orders. The application uses node.js, express, express-handlebars, and mysql.",
+        "link":"https://hidden-fjord-99426.herokuapp.com/",
+        "githubLink":"https://github.com/MagenBouchard/burger-"
+    },
+    {
+        "id": "7",
+        "name":"Giphy Button",
+        "image": "https://www.bing.com/th?id=OIP.I7fUIYV6q_effTcYENrlQwHaHa&pid=Api&rs=1",
+        "description":"This website uses the GIPHY API to populate the site with gifs of your favorite athletes.  When the request is complete, the site uses Javascript and jQuery to add static gif images to the HTML.",
+        "link":"https://magenbouchard.github.io/button/",
+        "githubLink":"https://github.com/MagenBouchard/button"
+    },
+    {
+        "id": "8",
+        "name":"Bamazon",
+        "image": "https://its.unl.edu/images/services/icons/UNL_Marketplace_Icon-01.png",
+        "description":"bamazon is a store like app. On the customer side they can view inventory and make purchases. On the stock side managers can view inventory add and create new products.",
+        "link":"https://drive.google.com/file/d/1R6fVFEALdRsuhqKcFYplWldGzneAmc3w/view",
+        "githubLink":"https://github.com/MagenBouchard/bamazon"
+    },
+    {
+        "id": "9",
+        "name":"Train Time",
+        "image": "http://2.bp.blogspot.com/-hh3-CiTPrug/UN6OY24ouGI/AAAAAAAAAPo/nGOl36V2oQg/s1600/sketch_james.jpg",
+        "description":"Train Scheduler is a project where the user enters in the fields, and upon clicking submit, appends it to the table above. Using Moment.js, the app will determine how soon the train will approach the station based on the current time, the frequency it arrives at the station, and the train's starting time.",
+        "link":"https://magenbouchard.github.io/Train_Time/",
+        "githubLink":"https://github.com/MagenBouchard/Train_Time"
+    }
+
+]
