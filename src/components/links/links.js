@@ -17,7 +17,7 @@ const githubLink ="https://github.com/MagenBouchard"
 const gmailLink="mailto:magen.bouchard@gmail.com?subject=%20Let's%20work%20together!"
 
 
-const resume ="https://drive.google.com/file/d/10rbghJyzPFOs1VL8ZFHstPECFazLBII7/view"
+const resume ="https://drive.google.com/file/d/1JP2KkOQ2ui4CzqaA1JD3L3Czqki2uE_8/view?usp=sharing"
 
 
 
