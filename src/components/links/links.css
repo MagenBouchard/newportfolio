@@ -1,3 +1,5 @@
-.holder{
-    padding: 50px;
-} 
+.col-sm {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+

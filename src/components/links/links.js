@@ -5,18 +5,9 @@ import gmailIcon from "./gmailIcon.png"
 import githubIcon from "./githubIcon.png"
 import linkedinIcon from "./linkedinIcon.png"
 
-
-
 const linkedinLink="https://www.linkedin.com/in/magenbouchard/"
-
-
 const githubLink ="https://github.com/MagenBouchard"
-
-
-
 const gmailLink="mailto:magen.bouchard@gmail.com?subject=%20Let's%20work%20together!"
-
-
 const resume ="https://drive.google.com/file/d/1JP2KkOQ2ui4CzqaA1JD3L3Czqki2uE_8/view?usp=sharing"
 
 
@@ -34,7 +25,6 @@ function Links(){
    <div className="col-sm"><a href={gmailLink}>  <img src={gmailIcon} alt="gmail icon"></img>  </a></div>
               
             </div>
-        
             </div>
         </div>
     )

@@ -1,11 +1,12 @@
 import React from "react";
 import "./project.css";
-import Slide from 'react-reveal/Slide';
+
 
 function Projects(props) {
   return (
-    <Slide>
+    
 
+      <div className="holder">
       <div className="card">
 
         <div className="img-container">
@@ -19,7 +20,8 @@ function Projects(props) {
             
         </div>
       </div>  
-    </Slide>
+      </div>
+
  
   );
 }

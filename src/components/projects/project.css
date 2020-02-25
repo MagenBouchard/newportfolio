@@ -1,5 +1,6 @@
 .holder {
  margin: 50px;
+
 }
 
 .card {
@@ -11,6 +12,7 @@
     width: 300px;
     box-shadow: 5px 5px 10px #999, 0 3px 6px #999;
     text-align: left;
+   
   }
   
   .card > .img-container {
