@@ -22,19 +22,13 @@ function Introduction() {
               <br></br>
               <br></br>
               <hr></hr>
-              <h1> Technical Skills</h1>
-              <hr></hr>
-              <div className="intromessage">
-                Node.Js, Express, JavaScript, jQuery, React.js, React, GIT,
-                GitHub, MongoDB, MySQL, Firebase, Handlebars, HTML, CSS,
-                Bootstrap, Media Queries, APIs, Microsoft Suite, Heroku,
-                Command- Line
-              </div>
+
             </div>
 
             <div className="col-sm-6">
               <img className="img-style1" src={nick} alt="nick and i"></img>
             </div>
+           
           </div>
         </div>
       </div>

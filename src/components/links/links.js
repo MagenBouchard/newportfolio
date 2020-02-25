@@ -26,6 +26,7 @@ function Links(){
               
             </div>
             </div>
+            <hr></hr>
         </div>
     )
 }
