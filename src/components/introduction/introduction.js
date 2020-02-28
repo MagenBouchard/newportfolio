@@ -14,14 +14,14 @@ function Introduction() {
               <h1 className="style-heading">Hi, I am Magen! </h1>
               <hr></hr>
               <div className="intromessage">
-                Full Stack Web Developer with a background in Instructional
-                Design and Technology as well as Learning Management Systems.
-                Motivated by designing practical and aesthhetically pleasing
-                applications.
+                <p className="">
+                  
+                I am a Full Stack Web Developer with strong problem-solving skills with a sharp eye for aesthetics and presentation, extensive knowledge in Education and Learning Management Systems (LMS). Not only do I have experience with large scale projects within the education system, but I also possess advanced communication skills to work in both independently and in collaborative partnerships. I am equal parts innovative and realistic allowing myself to craft realistic expectations and develop simple solutions to complex problems that leverage and drive efficiencies.
+                </p>
               </div>
               <br></br>
               <br></br>
-              <hr></hr>
+             
 
             </div>
 
