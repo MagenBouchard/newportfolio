@@ -15,20 +15,25 @@ function Introduction() {
               <hr></hr>
               <div className="intromessage">
                 <p className="">
-                  
-                I am a Full Stack Web Developer with strong problem-solving skills with a sharp eye for aesthetics and presentation, extensive knowledge in Education and Learning Management Systems (LMS). Not only do I have experience with large scale projects within the education system, but I also possess advanced communication skills to work in both independently and in collaborative partnerships. I am equal parts innovative and realistic allowing myself to craft realistic expectations and develop simple solutions to complex problems that leverage and drive efficiencies.
+                  Full Stack Web Developer with a background in Education and
+                  Learning Management Systems (LMS), providing strong
+                  problem-solving skills with a keen eye for aesthetics and
+                  presentation. Experience with large-scale projects and
+                  advanced communication skills to work independently and in
+                  collaborative partnerships. A flexible thinker, open to
+                  innovation, and yet realistic in expectations for solving
+                  complex problems. With obstacles, seeks alternative ways to
+                  leverage interests and systems in achieving defined objectives
+                  effectively.
                 </p>
               </div>
               <br></br>
               <br></br>
-             
-
             </div>
 
             <div className="col-sm-6">
               <img className="img-style1" src={nick} alt="nick and i"></img>
             </div>
-           
           </div>
         </div>
       </div>
