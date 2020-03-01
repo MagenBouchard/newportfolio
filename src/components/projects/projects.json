@@ -11,7 +11,7 @@
         "id": "10",
         "name":"Robotics Score Keeper",
         "image": "https://www.bing.com/th?id=OIP.mVwhI5_6242Ef1i3UytOHAHaFj&pid=Api&rs=1",
-        "description":"I created the Robotics Score Keeper for a specific Robotics competition for Osceola County School District. The county conducts a robotics competition each year and sought a neat and clean simple way to display scores. This project was created using bootstrap and JavaScrip.",
+        "description":"I created the Robotics Score Keeper for a specific Robotics competition for Osceola County School District. The county conducts a robotics competition each year and sought a neat, clean, and simple way to display scores. This project was created using bootstrap and JavaScript.",
         "link":"https://magenbouchard.github.io/Robotics_SDOC/",
         "githubLink":"https://github.com/MagenBouchard/Robotics_SDOC"
     },
