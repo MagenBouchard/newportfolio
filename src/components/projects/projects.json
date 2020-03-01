@@ -8,6 +8,14 @@
         "githubLink":"https://github.com/onieronaut/unLeashed"
     },
     {
+        "id": "10",
+        "name":"Robotics Score Keeper",
+        "image": "https://www.bing.com/th?id=OIP.mVwhI5_6242Ef1i3UytOHAHaFj&pid=Api&rs=1",
+        "description":"I created the Robotics Score Keeper for a specific Robotics competition for Osceola County School District. The county conducts a robotics competition each year and sought a neat and clean simple way to display scores. This project was created using bootstrap and JavaScrip.",
+        "link":"https://magenbouchard.github.io/Robotics_SDOC/",
+        "githubLink":"https://github.com/MagenBouchard/Robotics_SDOC"
+    },
+    {
         "id": "2",
         "name":"Clicky Game",
         "image": "http://www.mycitruscountyhome.com/2087Cardinal/images/Click-Here-Button.png",
@@ -70,6 +78,6 @@
         "description":"Train Scheduler is a project where the user enters in the fields, and upon clicking submit, appends it to the table above. Using Moment.js, the app will determine how soon the train will approach the station based on the current time, the frequency it arrives at the station, and the train's starting time.",
         "link":"https://magenbouchard.github.io/Train_Time/",
         "githubLink":"https://github.com/MagenBouchard/Train_Time"
-    }
-
+    } 
+   
 ]
