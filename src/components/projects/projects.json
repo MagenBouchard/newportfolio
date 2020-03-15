@@ -47,14 +47,7 @@
         "link":"https://magenbouchard.github.io/simple_guess/",
         "githubLink":"https://github.com/MagenBouchard/simple_guess"
     },
-     {
-        "id": "6",
-        "name":"Burger Time",
-        "image": "https://thumbs.dreamstime.com/b/burger-picture-design-hand-drawn-art-140238469.jpg",
-        "description":"This application takes in user input regarding burger orders. The application uses node.js, express, express-handlebars, and mysql.",
-        "link":"https://hidden-fjord-99426.herokuapp.com/",
-        "githubLink":"https://github.com/MagenBouchard/burger-"
-    },
+    
     {
         "id": "7",
         "name":"Giphy Button",
